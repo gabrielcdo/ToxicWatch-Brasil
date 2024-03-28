@@ -12,4 +12,4 @@ This section presents an analysis of the companies most frequently mentioned as 
 
 A word cloud visualization highlighting the most common reasons cited for companies being labeled as toxic.
 
-![Word Cloud of Reasons](images/wordcloud.png)
+![Word Cloud of Reasons](images/wordcloud.jpeg)
